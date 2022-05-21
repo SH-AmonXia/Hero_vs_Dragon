@@ -1,4 +1,4 @@
-# Hero_vs_Dragon
+# Hero vs Dragon
 A game of fighting against Dragon
 
 code with python
